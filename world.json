@@ -1,0 +1,333 @@
+{
+  "region": [
+    "asia",
+    "tw",
+    "jp",
+    "hk",
+    "cn",
+    "us",
+    "uk"
+  ],
+  "lang": [
+    "zh",
+    "zh-tw",
+    "zh-hk",
+    "zh-cn",
+    "jp",
+    "en",
+    "en-us",
+    "en-uk"
+  ],
+  "type": [
+    "vtuber",
+    "vtype",
+    "聲優",
+    "繪師",
+    "自媒體",
+    "獨立遊戲",
+    "網路歌手"
+  ],
+  "organization": [
+    "個人勢",
+    "團體勢",
+    "企業勢",
+    "HaPiStudio",
+    "BraveHearts"
+  ],
+  "wo": [
+    {
+      "id": 1,
+      "na": "米米&喪屍迪",
+      "st": [
+        {
+          "na": "Mi",
+          "si": 7000
+        },
+        {
+          "na": "Di",
+          "si": 7001
+        }
+      ],
+      "mo": [
+        {
+          "na": "IsShun",
+          "si": 76561199786347055
+        }
+      ],
+      "la": [
+        "lang:zh",
+        "lang:zh-tw",
+        "region:asia",
+        "region:tw",
+        "type:vtuber",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 2,
+      "na": "いっしゅん_瞬",
+      "st": [
+        {
+          "na": "IsShun",
+          "si": 76561199786347055
+        }
+      ],
+      "mo": [
+        {
+          "na": "Mi",
+          "si": 7000
+        },
+        {
+          "na": "Di",
+          "si": 7001
+        }
+      ],
+      "la": [
+        "lang:zh",
+        "lang:zh-tw",
+        "region:asia",
+        "region:tw",
+        "type:vtuber",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 3,
+      "na": "Anseki_諳石🦆",
+      "st": [
+        {
+          "na": "Hao",
+          "si": 7002
+        },
+        {
+          "na": "Ping",
+          "si": 76561198079991682
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-tw",
+        "region:asia",
+        "region:tw",
+        "type:vtyper",
+        "type:獨立遊戲",
+        "organization:團體勢",
+        "organization:HaPiStudio"
+      ]
+    },
+    {
+      "id": 4,
+      "na": "夢見露諾",
+      "st": [
+        {
+          "na": "Im_charlie87",
+          "si": 7003
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-hk",
+        "lang:zh-tw",
+        "region:asia",
+        "region:hk",
+        "region:tw",
+        "type:vtype",
+        "type:繪師",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 5,
+      "na": "捷克",
+      "st": [
+        {
+          "na": "小林裕介",
+          "si": 7004
+        },
+        {
+          "na": "菲魯茲・藍",
+          "si": 7005
+        },
+        {
+          "na": "嶋村侑",
+          "si": 7006
+        },
+        {
+          "na": "後藤麻衣",
+          "si": 7007
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:jp",
+        "region:asia",
+        "region:jp",
+        "type:vtype",
+        "type:聲優",
+        "organization:企業勢",
+        "organization:BraveHearts"
+      ]
+    },
+    {
+      "id": 6,
+      "na": "星咲みらい",
+      "st": [
+        {
+          "na": "HACHI",
+          "si": 7008
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:jp",
+        "region:asia",
+        "region:jp",
+        "type:vtype",
+        "type:網路歌手",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 7,
+      "na": "無界V",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 8,
+      "na": "雀羽困",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 9,
+      "na": "雅達諾 Adano",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 10,
+      "na": "喵控",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 11,
+      "na": "尼皮 ✖🔴✖",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 12,
+      "na": "柴豆古琳",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    },
+    {
+      "id": 13,
+      "na": "繁星🐰",
+      "st": [
+        {
+          "na": "cherry",
+          "si": 7009
+        }
+      ],
+      "mo": [],
+      "la": [
+        "lang:zh",
+        "lang:zh-cn",
+        "region:asia",
+        "region:cn",
+        "type:vtype",
+        "type:自媒體",
+        "organization:個人勢"
+      ]
+    }
+  ]
+}
