@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "itemdefid": "10000",
+      "type": "item",
+      "name": "MiDi Maseki",
+      "description": "MiDi Village Maseki",
+      "icon_url": "https://i.imgur.com/EYR67w7.png",
+      "icon_url_large": "https://i.imgur.com/5hXNiqd.png",
+      "store_tags": "midi village;maseki",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": true
+    },
+    {
+      "itemdefid": "10001",
+      "type": "item",
+      "name": "MiDi Maseki (Free)",
+      "description": "MiDi Village Maseki (Free)",
+      "icon_url": "https://i.imgur.com/EYR67w7.png",
+      "icon_url_large": "https://i.imgur.com/5hXNiqd.png",
+      "store_tags": "midi village;maseki",
+      "store_hidden": true,
+      "promo": "manual",
+      "granted_manually": false,
+      "drop_interval": 1,
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": true
+    },
+    {
+      "itemdefid": "10002",
+      "type": "item",
+      "name": "MiDi Ticket",
+      "description": "MiDi Village Ticket",
+      "store_tags": "midi village;ticket",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": true,
+      "hidden": true,
+      "store_hidden": true
+    },
+    {
+      "itemdefid": "10003",
+      "type": "item",
+      "name": "MiDi: Mi Hat Type1",
+      "description": "MiDi Village: Mi Hat Type1",
+      "icon_url": "https://i.imgur.com/QmJj86Q.gif",
+      "icon_url_large": "https://i.imgur.com/QmJj86Q.gif",
+      "store_tags": "midi village;hat",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": false,
+      "exchange": "10000x1;10001x1"
+    },
+    {
+      "itemdefid": "10003",
+      "type": "item",
+      "name": "MiDi: Pickaxe Type1",
+      "description": "MiDi Village: Pickaxe Type1",
+      "icon_url": "https://i.imgur.com/x1gd1r5.png",
+      "icon_url_large": "https://i.imgur.com/hioJVKm.png",
+      "store_tags": "midi village;pickaxe",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": false,
+      "exchange": "10000x5;10001x5"
+    },
+    {
+      "itemdefid": "10004",
+      "type": "item",
+      "name": "MiDi: Health Potion",
+      "description": "MiDi Village: Health Potion",
+      "icon_url": "https://i.imgur.com/Of0AfEr.png",
+      "icon_url_large": "https://i.imgur.com/Wism111.png",
+      "store_tags": "midi village;potion",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": true
+    },
+    {
+      "itemdefid": "10005",
+      "type": "bundle",
+      "bundle": "10004x5",
+      "name": "MiDi: Health Potion x 5",
+      "description": "MiDi Village: Health Potion x 5",
+      "store_tags": "midi village;potion",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "exchange": "10000x1;10001x1"
+    },
+    {
+      "itemdefid": "10006",
+      "type": "item",
+      "name": "MiDi: Undefine",
+      "description": "MiDi Village: Undefine",
+      "tradable": false,
+      "marketable": false,
+      "commodity": false,
+      "auto_stack": true,
+      "hidden": true,
+      "store_hidden": true
+    }
+  ]
+}
