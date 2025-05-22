@@ -111,16 +111,25 @@
     {
       "itemdefid": 1,
       "type": "item",
-      "name": "item_001",
-      "name_english": "item_001",
-      "name_french": "item_001",
-      "description": "item_001_info",
-      "description_english": "item_001_info",
-      "description_french": "item_001_info",
-      "display_type": "工具",
-      "display_type_english": "工具_en"
-      "display_type_french": "工具_fr"
-      "tags": "type:tool;rarity:1",
+      "name": {
+        "default": "item_001",
+        "english": "item_001",
+        "french": "item_001"
+      },
+      "description": {
+        "default": "info",
+        "english": "info_en",
+        "french": "info_fr"
+      },
+      "display_type": {
+        "default": "工具",
+        "english": "工具_en",
+        "french": "工具_fr"
+      },
+      "tags": {
+        "type": "tool",
+        "rarity": 1
+      },
       "auto_stack": true,
       "usable": false,
       "use_cooldown": false
