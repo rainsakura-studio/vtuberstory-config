@@ -107,6 +107,16 @@
       "auto_stack": true,
       "hidden": true,
       "store_hidden": true
+    },
+    {
+      "itemdefid": "item_001",
+      "type": "Tool",
+      "name": "item_001",
+      "Info": "item_001_info",
+      "auto_stack": true,
+      "tradable": false,
+      "usable": false,
+      "use_cooldown": false
     }
   ]
 }
