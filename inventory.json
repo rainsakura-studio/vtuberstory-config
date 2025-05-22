@@ -109,14 +109,18 @@
       "store_hidden": true
     },
     {
-      "itemdefid": "item_001",
-      "type": "Tool",
-      "name": "item_001",
-      "Info": "item_001_info",
-      "rarity": "1",
-      "auto_stack": true,
-      "usable": false,
-      "use_cooldown": false
+      "itemdefid": { "value": "1", "memo": "此物品定義的 ID。 若非工作坊物品，此數必須小於 1,000,000。" },
+      "type": { "value": "item", "memo": "內部值 （'item' | 'bundle' | 'generator' | 'playtimegenerator' | 'tag_generator'）。" },
+      "name": { "value": "item_001", "memo": "預設名稱" },
+      "name_english": { "value": "item_001", "memo": "英文名稱" },
+      "name_french": { "value": "item_001", "memo": "法文名稱" },
+      "description": { "value": "item_001_info", "memo": "預設描述" },
+      "description_english": { "value": "item_001_info", "memo": "英文描述" },
+      "description_french": { "value": "item_001", "memo": "法文描述" },
+      "tags": { "value": "rarity:1", "memo": "請見Steam 物品庫物品標籤" },
+      "auto_stack": { "value": true, "memo": "False / True。 若為 True，物品授予將被自動添加至指定型別中的單一堆疊中。 當數量有變時，授予將在物品庫回呼中可見。 預設為 False。" },
+      "usable": { "value": false, "memo": "" },
+      "use_cooldown": { "value": false, "memo": "" },
     }
   ]
 }
