@@ -117,7 +117,7 @@
       "description": "item_001_info",
       "description_english": "item_001_info",
       "description_french": "item_001_info",
-      "tags": "rarity:1",
+      "tags": "rarity:1;type:Tool",
       "auto_stack": true,
       "usable": false,
       "use_cooldown": false
